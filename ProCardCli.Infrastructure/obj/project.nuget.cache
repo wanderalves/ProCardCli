@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDD4pHQ4iRE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\009550631\\Source\\Repos\\ProCardCli\\ProCardCli.Infrastructure\\ProCardCli.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\009550631\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

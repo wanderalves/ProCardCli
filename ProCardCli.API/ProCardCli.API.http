@@ -1,0 +1,6 @@
+@ProCardCli.API_HostAddress = http://localhost:5187
+
+GET {{ProCardCli.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
